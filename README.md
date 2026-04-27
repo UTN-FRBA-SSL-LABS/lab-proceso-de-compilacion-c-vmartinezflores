@@ -1029,9 +1029,7 @@ SIMBOLOS_U_FINAL=SI
 
 **P15.** Ejecutá `./programa` y copiá la salida completa.
 
-> **R:** 
-=== Laboratorio de Compilacion en C (v1.0) ===
-
+> **R:** === Laboratorio de Compilacion en C (v1.0) ===
 sumar(3, 4)       = 7
 CUADRADO(5)      = 25
 MAX(7, 12)        = 12
